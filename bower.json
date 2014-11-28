@@ -3,5 +3,5 @@
   "description": "https://github.com/moesn/berserker.git",
   "version": "1.0.0",
   "main": "./angular/angular.js",
-  "ignore": [".*", "**/.*"]
+  "ignore": ["**/.*"]
 }
